@@ -1,4 +1,4 @@
-Blue code permutations
+Finding Blue Code permutations
 ======================
 
 This repository contains a Python script that is able to find the encryption permutation that was used to encrypt two telegrams, encrypted with the Blue Code. It requires a known encryption figure.
